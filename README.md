@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=1000%2B%20Claude%20Prompts&fontSize=70&animation=fadeIn" alt="Header Banner" />
+</p>
+
 # 1000+ Claude Prompts Repository
 
 [![Claude Models](https://img.shields.io/badge/Claude-Haiku%20%7C%20Sonnet%20%7C%20Opus%20%7C%20Fable-orange.svg)](#model-compatibility)
@@ -5,13 +9,17 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-![Vibe Coding with Claude](https://media.giphy.com/media/26n6XC8EYdrGT8Gif/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/26n6XC8EYdrGT8Gif/giphy.gif" alt="Vibe Coding with Claude" />
+</p>
 
 Welcome to the ultimate repository of **1,007 battle-tested prompts** specifically designed and optimized for all Anthropic Claude models—including the latest **Claude Fable 5**, **Opus 4**, **Sonnet 4**, and **Haiku 3.5**.
 
 Whether you are a **vibe coder** shipping MVPs in a single weekend, a **software engineer** building enterprise systems, or a **student** learning core computer science concepts, this curated collection will elevate your productivity and AI-assisted development workflow.
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec59.gif" alt="Divider" />
+</p>
 
 ## Repository Structure
 
@@ -40,11 +48,15 @@ The repository is organized into **20 specialized categories**, each containing 
 | [19-student-learning](prompts/19-student-learning) | Big O runtimes, BST nodes, observers, and sorting algorithms. | CS Students, Learners |
 | [20-vibe-coding](prompts/20-vibe-coding) | Short validation workflows, fast landing pages, and AI pair workflows. | Vibe Coders, Hackers |
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec59.gif" alt="Divider" />
+</p>
 
 ## Quick Start
 
-![Programmer Typing Fast](https://media.giphy.com/media/13HgwGsXF0wDQs/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0wDQs/giphy.gif" alt="Programmer Typing Fast" />
+</p>
 
 1. **Locate a Prompt**: Use the [Master Index](INDEX.md) to search for specific topics, technologies, or tags.
 2. **Copy the Prompt**: Copy the contents inside the `## 🎯 Prompt` code block in the markdown file. (Note: Sub-pages preserve the emoji targets for compatibility).
@@ -55,11 +67,15 @@ The repository is organized into **20 specialized categories**, each containing 
 - **Use Extended Thinking**: When working with architecture design (`10-*`), debugging (`09-*`), or security (`14-*`), toggle **Extended Thinking** on Sonnet 4 or Fable 5. This forces the model to construct chain-of-thought analysis before outputting code.
 - **Provide Context**: Copy relevant parts of your current files or directory structure and append it to the prompt.
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec59.gif" alt="Divider" />
+</p>
 
 ## Model Compatibility
 
-![Claude Code Generator](https://media.giphy.com/media/HTE7c014v9n0c/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/HTE7c014v9n0c/giphy.gif" alt="Claude Code Generator" />
+</p>
 
 | Model Series | Ideal For | Context Window | Key Features |
 | :--- | :--- | :--- | :--- |
@@ -68,7 +84,9 @@ The repository is organized into **20 specialized categories**, each containing 
 | **Claude Sonnet 4** | Daily software engineering tasks, API generation, debugging, and unit tests | 200k tokens | Fastest high-quality coding assistant, extremely up-to-date syntax |
 | **Claude Haiku 3.5** | Fast scripting, single-file audits, shell script automation, and simple CRUD code | 200k tokens | Ultra-low latency, highly cost-effective for agentic workflows |
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec59.gif" alt="Divider" />
+</p>
 
 ## Contributing
 

@@ -88,6 +88,23 @@ The repository is organized into **20 specialized categories**, each containing 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec59.gif" alt="Divider" />
 </p>
 
+## Use as a Claude Skill
+
+The whole library is also packaged as one Claude skill, [`skill/claude-cheatcodes`](skill/claude-cheatcodes). Describe a task, for example "optimize my React app" or "design a Postgres schema". Claude finds the best-matching prompt, fills the placeholders from your context, and either hands you the prompt or runs it.
+
+**Install in the Claude apps:** download [`skill/claude-cheatcodes.zip`](skill/claude-cheatcodes.zip), go to **Settings → Capabilities → Skills**, choose **Upload skill** and select the zip. Code execution must be enabled.
+
+**Install in Claude Code:** copy the folder into your skills directory:
+
+```bash
+cp -r skill/claude-cheatcodes ~/.claude/skills/        # all projects
+# or: cp -r skill/claude-cheatcodes .claude/skills/   # this project only
+```
+
+**Search the library from the terminal:** `python3 skill/claude-cheatcodes/scripts/search.py "jwt auth api"`
+
+**Rebuild after editing prompts:** `python3 scripts/build_skill.py`. This regenerates `references/` and the zip, collapses generated variants into parameterised templates, and prints a parse and coverage report.
+
 ## Contributing
 
 Contributions are welcome! If you have a prompt that has saved you hours of work, please feel free to open a PR. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on formatting, tags, and difficulty scores.

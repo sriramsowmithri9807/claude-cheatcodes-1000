@@ -1,25 +1,30 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=1000%2B%20Claude%20Prompts&fontSize=70&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,50:B4637A,100:6E56CF&height=240&section=header&text=1000%2B%20Claude%20Prompts&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Proven%20prompt%20templates%20for%20every%20dev%20task&descAlignY=58&descSize=20" alt="1000+ Claude Prompts" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=D97757&center=true&vCenter=true&width=640&lines=1%2C007+battle-tested+Claude+prompts;20+categories%3A+vibe+coding+to+system+design;Fill+the+%5BPLACEHOLDERS%5D.+Ship+faster.;Now+installable+as+a+Claude+Skill" alt="1,007 battle-tested Claude prompts" />
 </p>
 
 # 1000+ Claude Prompts Repository
 
-[![Claude Models](https://img.shields.io/badge/Claude-Haiku%20%7C%20Sonnet%20%7C%20Opus%20%7C%20Fable-orange.svg)](#model-compatibility)
-[![Total Prompts](https://img.shields.io/badge/Total%20Prompts-1007-blue.svg)](#repository-structure)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+<p align="center">
+  <a href="#model-compatibility"><img src="https://img.shields.io/badge/Claude-Haiku%20%7C%20Sonnet%20%7C%20Opus%20%7C%20Fable-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Models" /></a>
+  <a href="#repository-structure"><img src="https://img.shields.io/badge/Prompts-1007-6E56CF?style=for-the-badge" alt="1007 Prompts" /></a>
+  <a href="#use-as-a-claude-skill"><img src="https://img.shields.io/badge/Claude%20Skill-ready-2EA043?style=for-the-badge" alt="Claude Skill ready" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-F2C94C?style=for-the-badge" alt="MIT License" /></a>
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge" alt="PRs welcome" /></a>
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26n6XC8EYdrGT8Gif/giphy.gif" alt="Vibe Coding with Claude" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="520" alt="Developer coding across multiple monitors" />
 </p>
 
 Welcome to the ultimate repository of **1,007 battle-tested prompts** specifically designed and optimized for all Anthropic Claude models—including the latest **Claude Fable 5**, **Opus 4**, **Sonnet 4**, and **Haiku 3.5**.
 
 Whether you are a **vibe coder** shipping MVPs in a single weekend, a **software engineer** building enterprise systems, or a **student** learning core computer science concepts, this curated collection will elevate your productivity and AI-assisted development workflow.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec59.gif" alt="Divider" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="" />
 
 ## Repository Structure
 
@@ -48,14 +53,12 @@ The repository is organized into **20 specialized categories**, each containing 
 | [19-student-learning](prompts/19-student-learning) | Big O runtimes, BST nodes, observers, and sorting algorithms. | CS Students, Learners |
 | [20-vibe-coding](prompts/20-vibe-coding) | Short validation workflows, fast landing pages, and AI pair workflows. | Vibe Coders, Hackers |
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec59.gif" alt="Divider" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="" />
 
 ## Quick Start
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0wDQs/giphy.gif" alt="Programmer Typing Fast" />
+  <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="420" alt="Developer at a desk" />
 </p>
 
 1. **Locate a Prompt**: Use the [Master Index](INDEX.md) to search for specific topics, technologies, or tags.
@@ -67,15 +70,9 @@ The repository is organized into **20 specialized categories**, each containing 
 - **Use Extended Thinking**: When working with architecture design (`10-*`), debugging (`09-*`), or security (`14-*`), toggle **Extended Thinking** on Sonnet 4 or Fable 5. This forces the model to construct chain-of-thought analysis before outputting code.
 - **Provide Context**: Copy relevant parts of your current files or directory structure and append it to the prompt.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec59.gif" alt="Divider" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="" />
 
 ## Model Compatibility
-
-<p align="center">
-  <img src="https://media.giphy.com/media/HTE7c014v9n0c/giphy.gif" alt="Claude Code Generator" />
-</p>
 
 | Model Series | Ideal For | Context Window | Key Features |
 | :--- | :--- | :--- | :--- |
@@ -84,9 +81,7 @@ The repository is organized into **20 specialized categories**, each containing 
 | **Claude Sonnet 4** | Daily software engineering tasks, API generation, debugging, and unit tests | 200k tokens | Fastest high-quality coding assistant, extremely up-to-date syntax |
 | **Claude Haiku 3.5** | Fast scripting, single-file audits, shell script automation, and simple CRUD code | 200k tokens | Ultra-low latency, highly cost-effective for agentic workflows |
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec59.gif" alt="Divider" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="" />
 
 ## Use as a Claude Skill
 
@@ -105,6 +100,8 @@ cp -r skill/claude-cheatcodes ~/.claude/skills/        # all projects
 
 **Rebuild after editing prompts:** `python3 scripts/build_skill.py`. This regenerates `references/` and the zip, collapses generated variants into parameterised templates, and prints a parse and coverage report.
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="" />
+
 ## Contributing
 
 Contributions are welcome! If you have a prompt that has saved you hours of work, please feel free to open a PR. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on formatting, tags, and difficulty scores.
@@ -112,3 +109,7 @@ Contributions are welcome! If you have a prompt that has saved you hours of work
 ## License
 
 This repository is available under the [MIT License](LICENSE).
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,50:B4637A,100:D97757&height=120&section=footer" alt="" width="100%" />
+</p>
